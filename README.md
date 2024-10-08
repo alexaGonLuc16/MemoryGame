@@ -1,4 +1,4 @@
-# Memory Game (Memorama)
+# Memory Game
 
 This repository contains a Memory Game project developed in Python, where players are tasked with matching pairs of cards. The game runs in the console and keeps track of scores.
 
